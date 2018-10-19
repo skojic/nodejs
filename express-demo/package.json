@@ -9,8 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "config": "^2.0.1",
     "express": "^4.16.4",
+    "helmet": "^3.14.0",
     "joi": "^14.0.0",
+    "morgan": "^1.9.1",
     "nodemon": "^1.18.4"
   }
 }
