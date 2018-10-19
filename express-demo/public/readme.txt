@@ -1,1 +1,0 @@
-This is serving static content test !!
